@@ -12,7 +12,7 @@ This program demonstrate how a file upload functionality works and how it can be
 
 - Just clone this folder
 ```
-$ git clone https://github.com/Dev-Ali/File_upload
+$ git clone https://github.com/Dev-Ali/File_upload.git
 ```
 - Change your path to the cloned directory
 ```
